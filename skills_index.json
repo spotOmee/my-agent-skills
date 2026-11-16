@@ -1,0 +1,355 @@
+{
+  "version": "2.0",
+  "repo": "my-agent-skills",
+  "owner": "spotOmee",
+  "total_repositories": 135,
+  "total_categories": 21,
+  "routing_map": {
+    "design": {
+      "web_design": {
+        "headline": "Design: Modern Web Design & Component Systems",
+        "purpose": "Accessible design systems, Radix UI, Tailwind CSS, component kits, and publication-quality web interfaces.",
+        "readme_path": "categories/design/web-design/README.md",
+        "triggers": [
+          "web",
+          "website",
+          "landing page",
+          "tailwind",
+          "react",
+          "css",
+          "shadcn",
+          "components",
+          "toast",
+          "drawer"
+        ],
+        "repository_count": 14
+      },
+      "app_ui_ux": {
+        "headline": "Design: Mobile App UI/UX & Design Intelligence",
+        "purpose": "Mobile design systems, layout architecture, typography harmony, and heuristics that eliminate AI slop.",
+        "readme_path": "categories/design/app-ui-ux/README.md",
+        "triggers": [
+          "android",
+          "mobile",
+          "app ui",
+          "compose",
+          "flutter",
+          "ux",
+          "design system",
+          "slop",
+          "tokens",
+          "branding"
+        ],
+        "repository_count": 13
+      },
+      "3d_animation": {
+        "headline": "Design: 3D Scenes & Interactive Web Animations",
+        "purpose": "Three.js 3D environments, WebGL shaders, GSAP timelines, Framer Motion springs, and kinetic micro-interactions.",
+        "readme_path": "categories/design/3d-animation/README.md",
+        "triggers": [
+          "3d",
+          "threejs",
+          "webgl",
+          "animation",
+          "gsap",
+          "motion",
+          "shaders",
+          "physics",
+          "scroll",
+          "canvas"
+        ],
+        "repository_count": 21
+      },
+      "apple_ui": {
+        "headline": "Design: Apple & iOS UI",
+        "purpose": "Apple Human Interface Guidelines, iOS, iPadOS, macOS, visionOS, and SwiftUI craft for precision interfaces.",
+        "readme_path": "categories/design/apple-ui/README.md",
+        "triggers": [
+          "apple",
+          "ios",
+          "macos",
+          "visionos",
+          "swiftui",
+          "apple ui",
+          "cupertino",
+          "hig"
+        ],
+        "repository_count": 2
+      }
+    },
+    "ai-agents": {
+      "agent_frameworks": {
+        "headline": "AI & Agents: Agent Frameworks & Multi-Agent Runtimes",
+        "purpose": "Anthropic agent tools, multi-agent role orchestration, Superpowers parallel dispatch, and Google ADK tooling.",
+        "readme_path": "categories/ai-agents/agent-frameworks/README.md",
+        "triggers": [
+          "agents",
+          "crewai",
+          "superpowers",
+          "adk",
+          "claude code",
+          "multi-agent",
+          "framework",
+          "codex"
+        ],
+        "repository_count": 16
+      },
+      "vision_multimodal": {
+        "headline": "AI & Agents: Vision & Multimodal UI Inspection",
+        "purpose": "Screen recording inspection, visual question answering with evidence, bounding-box detection, and OCR.",
+        "readme_path": "categories/ai-agents/vision-multimodal/README.md",
+        "triggers": [
+          "vision",
+          "watch",
+          "screenshot",
+          "multimodal",
+          "screen",
+          "inspect ui",
+          "visual qa"
+        ],
+        "repository_count": 2
+      },
+      "agent_memory_eval": {
+        "headline": "AI & Agents: Memory, Reasoning & Verification",
+        "purpose": "Elephant-Goldfish long-context retention, multimodal RAG pipelines, agent safety gates, and evaluation arenas.",
+        "readme_path": "categories/ai-agents/agent-memory-eval/README.md",
+        "triggers": [
+          "memory",
+          "rag",
+          "benchmark",
+          "eval",
+          "astryx",
+          "reasoning",
+          "gravitas",
+          "markitdown"
+        ],
+        "repository_count": 8
+      },
+      "prompt_engineering": {
+        "headline": "AI & Agents: Prompt Engineering & Synthesis Craft",
+        "purpose": "Meta-prompt optimization, Google NotebookLM synthesis, anti-AI content styling, and LoRA fine-tuning.",
+        "readme_path": "categories/ai-agents/prompt-engineering/README.md",
+        "triggers": [
+          "prompt",
+          "prompt engineering",
+          "notebooklm",
+          "unsloth",
+          "fine-tuning",
+          "writing style",
+          "synthesis"
+        ],
+        "repository_count": 6
+      }
+    },
+    "marketing-growth": {
+      "seo_analytics": {
+        "headline": "Marketing & Growth: SEO & Search Engine Telemetry",
+        "purpose": "AI search visibility audits, keyword clustering, Ahrefs telemetry, technical SEO, and programmatic search architecture.",
+        "readme_path": "categories/marketing-growth/seo-analytics/README.md",
+        "triggers": [
+          "seo",
+          "ahrefs",
+          "google search console",
+          "keywords",
+          "ranking",
+          "search visibility",
+          "open-seo"
+        ],
+        "repository_count": 3
+      },
+      "distribution_outreach": {
+        "headline": "Marketing & Growth: Distribution, Outreach & Startup Launch",
+        "purpose": "Cold email copywriting, LinkedIn organic reach, Reddit market intelligence, startup launch hubs, and creator economics.",
+        "readme_path": "categories/marketing-growth/distribution-outreach/README.md",
+        "triggers": [
+          "marketing",
+          "distribution",
+          "cold email",
+          "launch",
+          "linkedin",
+          "reddit",
+          "growth",
+          "reach"
+        ],
+        "repository_count": 8
+      }
+    },
+    "media-video": {
+      "video_editing": {
+        "headline": "Media & Video: AI Video Editing & Generative Production",
+        "purpose": "Non-linear video editing, AI avatar generation, talking head recuts, face swaps, and generative diffusion workflows.",
+        "readme_path": "categories/media-video/video-editing/README.md",
+        "triggers": [
+          "video edit",
+          "avatar",
+          "face swap",
+          "diffusion",
+          "comfyui",
+          "higgsfield",
+          "generative video",
+          "editor"
+        ],
+        "repository_count": 5
+      },
+      "motion_graphics": {
+        "headline": "Media & Video: Motion Graphics & Vector Animation",
+        "purpose": "LottieFiles vector graphics, Apple-style product launch films, animated charts, and kinetic choreography.",
+        "readme_path": "categories/media-video/motion-graphics/README.md",
+        "triggers": [
+          "motion graphics",
+          "lottie",
+          "charts",
+          "launch film",
+          "explainer",
+          "kinetic",
+          "motion web"
+        ],
+        "repository_count": 5
+      },
+      "code_to_video": {
+        "headline": "Media & Video: Code-to-Video & Programmatic Composition",
+        "purpose": "Create real MP4 videos and kinetic motion sequences programmatically using React, HTML/CSS, and Hyperframes.",
+        "readme_path": "categories/media-video/code-to-video/README.md",
+        "triggers": [
+          "video",
+          "remotion",
+          "hyperframes",
+          "code to video",
+          "programmatic video",
+          "slideshow",
+          "reel"
+        ],
+        "repository_count": 4
+      }
+    },
+    "development": {
+      "architecture": {
+        "headline": "Development: Software Architecture & Codebase Design",
+        "purpose": "Deep module interfaces, clean seams, testable boundaries, TypeScript craft, and build-your-own fundamentals.",
+        "readme_path": "categories/development/architecture/README.md",
+        "triggers": [
+          "architecture",
+          "codebase",
+          "refactoring",
+          "deep module",
+          "typescript",
+          "design patterns",
+          "build your own"
+        ],
+        "repository_count": 4
+      },
+      "backend_api": {
+        "headline": "Development: Backend APIs & Full-Stack Systems",
+        "purpose": "Convex real-time reactive databases, Next.js App Router patterns, and production-grade full-stack architecture.",
+        "readme_path": "categories/development/backend-api/README.md",
+        "triggers": [
+          "backend",
+          "api",
+          "convex",
+          "nextjs",
+          "database",
+          "server",
+          "fullstack",
+          "react"
+        ],
+        "repository_count": 7
+      },
+      "tools_testing": {
+        "headline": "Development: Engineering Workflows, QA & Scaffolding",
+        "purpose": "Full-lifecycle engineering review, automated browser QA, YC office hours forcing questions, and in-browser dev environments.",
+        "readme_path": "categories/development/tools-testing/README.md",
+        "triggers": [
+          "gstack",
+          "qa",
+          "testing",
+          "devtools",
+          "ci/cd",
+          "bolt",
+          "engineering",
+          "ship",
+          "review"
+        ],
+        "repository_count": 4
+      },
+      "mobile_frameworks": {
+        "headline": "Development: Cross-Platform Mobile Frameworks",
+        "purpose": "Expo SDK, EAS build & update pipelines, file-based routing, and native mobile notification handlers.",
+        "readme_path": "categories/development/mobile-frameworks/README.md",
+        "triggers": [
+          "expo",
+          "react native",
+          "eas",
+          "mobile dev",
+          "push notifications",
+          "router"
+        ],
+        "repository_count": 2
+      }
+    },
+    "security-reverse": {
+      "security_audit": {
+        "headline": "Security & Reverse: Security Auditing & Vulnerability Scanning",
+        "purpose": "Cloudflare OWASP top 10 security audits, TruffleHog secret scanning, and NVIDIA SkillSpector safety checks.",
+        "readme_path": "categories/security-reverse/security-audit/README.md",
+        "triggers": [
+          "security",
+          "audit",
+          "trufflehog",
+          "vulnerability",
+          "secret scanning",
+          "skillspector",
+          "pentest"
+        ],
+        "repository_count": 4
+      },
+      "reverse_engineering": {
+        "headline": "Security & Reverse: Reverse Engineering & Network Capture",
+        "purpose": "Reverse Engineering Anything (REA) multi-platform decompilation, API extraction, and Firecrawl web scraping.",
+        "readme_path": "categories/security-reverse/reverse-engineering/README.md",
+        "triggers": [
+          "reverse engineering",
+          "rea",
+          "api capture",
+          "decompile",
+          "ida pro",
+          "firecrawl",
+          "api-anything"
+        ],
+        "repository_count": 5
+      }
+    },
+    "trading-cloud": {
+      "cloud_infrastructure": {
+        "headline": "Trading & Cloud: Cloud Infrastructure & DevOps",
+        "purpose": "Azure Kubernetes Service cost optimization, GPU inference node pools, and automated deployment pipelines.",
+        "readme_path": "categories/trading-cloud/cloud-infrastructure/README.md",
+        "triggers": [
+          "azure",
+          "cloud",
+          "kubernetes",
+          "aks",
+          "devops",
+          "infrastructure",
+          "gpu",
+          "deploy"
+        ],
+        "repository_count": 1
+      },
+      "trading_finance": {
+        "headline": "Trading & Cloud: Quantitative Finance & Trading",
+        "purpose": "Market breadth analysis, Volatility Contraction Pattern (VCP) screeners, and automated trade journaling.",
+        "readme_path": "categories/trading-cloud/trading-finance/README.md",
+        "triggers": [
+          "trading",
+          "stocks",
+          "finance",
+          "screener",
+          "vcp",
+          "market analysis",
+          "earnings"
+        ],
+        "repository_count": 1
+      }
+    }
+  }
+}
