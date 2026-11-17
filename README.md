@@ -1,5 +1,21 @@
 # My Agent Skills
-> **Sub-Headline:** Curated index of 135 high-craft developer, design, AI agent, video, marketing, and security skills for autonomous coding agents with commit-pinned ephemeral routing.
+
+[![skills.sh compatible](https://img.shields.io/badge/skills.sh-compatible-00D084?style=flat-square&logo=terminal)](https://skills.sh)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Active Skills](https://img.shields.io/badge/skills-135%20verified-orange.svg?style=flat-square)](skills_index.json)
+
+> Curated index of 135 high-craft developer, design, AI agent, video, marketing, and security skills for autonomous coding agents with commit-pinned ephemeral routing.
+
+## ⚡ One-Step Activation (Copy & Paste into Your Coding Agent)
+
+Paste this single line into any AI coding agent to install **`my-agent-skill`** and unlock all skills in this repository:
+
+> `Fetch https://raw.githubusercontent.com/spotOmee/my-agent-skills/main/agent-skills/my-agent-skill/SKILL.md, save it as my-agent-skill/SKILL.md inside my local agent skills directory (~/.antigravity/skills/, ~/.gemini/skills/, ~/.claude/skills/, or ./.agents/skills/), and use it to route my tasks.`
+
+Or install via terminal in one command:
+```bash
+mkdir -p ~/.antigravity/skills/my-agent-skill && curl -fsSL https://raw.githubusercontent.com/spotOmee/my-agent-skills/main/agent-skills/my-agent-skill/SKILL.md -o ~/.antigravity/skills/my-agent-skill/SKILL.md
+```
 
 ## System Architecture
 
@@ -36,6 +52,8 @@ This repository serves as the single source of truth for all verified agent skil
 | **Security & Reverse Engineering** | `security-audit` | Cloudflare OWASP top 10 security audits, TruffleHog secret scanning, and NVIDIA SkillSpector safety checks. | **4** | [View Manifest](categories/security-reverse/security-audit/README.md) |
 | **Trading & Cloud Ops** | `cloud-infrastructure` | Azure Kubernetes Service cost optimization, GPU inference node pools, and automated deployment pipelines. | **1** | [View Manifest](categories/trading-cloud/cloud-infrastructure/README.md) |
 | **Trading & Cloud Ops** | `trading-finance` | Market breadth analysis, Volatility Contraction Pattern (VCP) screeners, and automated trade journaling. | **1** | [View Manifest](categories/trading-cloud/trading-finance/README.md) |
+
+---
 
 ---
 
