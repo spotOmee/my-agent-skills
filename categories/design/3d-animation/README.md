@@ -17,6 +17,7 @@
 | **gsap-skills** | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | Official GreenSock GSAP animation skills: ScrollTrigger, Timeline, Flip, physics, and high-performance DOM tweening. (`sha: aed9cfd`) |
 | **Trig-JS** | [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) | Trigonometric and mathematical animation helpers for procedural motion, wave kinematics, and game UI. (`sha: 8cdc54a`) |
 | **genjutsu** | [iamovi/genjutsu](https://github.com/iamovi/genjutsu) | Creative web animation spells and canvas effects for dynamic hero sections and immersive visuals. (`sha: 3bf81b0`) |
+| **web-animation-skills** | [iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills) | Web animation skills for coding agents covering GSAP, SVG, Lottie, micro-interactions, page transitions, and 60fps performance. (`sha: ed3a045`) |
 | **motion-primitives** | [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) | Copy-paste smooth interactive motion primitives built with Tailwind CSS and Framer Motion. (`sha: 120f64f`) |
 | **anime** | [juliangarnier/anime](https://github.com/juliangarnier/anime) | Lightweight JavaScript animation engine with simple API for CSS properties, SVG, DOM attributes, and JS objects. (`sha: 01b81be`) |
 | **motion** | [motiondivision/motion](https://github.com/motiondivision/motion) | Framer Motion / Motion: modern, production-ready animation library for React, JavaScript, and Vue with physics gestures. (`sha: f95ab94`) |

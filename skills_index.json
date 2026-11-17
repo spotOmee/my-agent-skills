@@ -2,7 +2,7 @@
   "version": "2.0",
   "repo": "my-agent-skills",
   "owner": "spotOmee",
-  "total_repositories": 135,
+  "total_repositories": 144,
   "total_categories": 21,
   "routing_map": {
     "design": {
@@ -58,7 +58,7 @@
           "scroll",
           "canvas"
         ],
-        "repository_count": 21
+        "repository_count": 22
       },
       "apple_ui": {
         "headline": "Design: Apple & iOS UI",
@@ -90,9 +90,10 @@
           "claude code",
           "multi-agent",
           "framework",
-          "codex"
+          "codex",
+          "antigravity"
         ],
-        "repository_count": 16
+        "repository_count": 17
       },
       "vision_multimodal": {
         "headline": "AI & Agents: Vision & Multimodal UI Inspection",
@@ -187,9 +188,10 @@
           "comfyui",
           "higgsfield",
           "generative video",
-          "editor"
+          "editor",
+          "ffmpeg"
         ],
-        "repository_count": 5
+        "repository_count": 6
       },
       "motion_graphics": {
         "headline": "Media & Video: Motion Graphics & Vector Animation",
@@ -202,9 +204,10 @@
           "launch film",
           "explainer",
           "kinetic",
-          "motion web"
+          "motion web",
+          "manim"
         ],
-        "repository_count": 5
+        "repository_count": 8
       },
       "code_to_video": {
         "headline": "Media & Video: Code-to-Video & Programmatic Composition",
@@ -219,7 +222,7 @@
           "slideshow",
           "reel"
         ],
-        "repository_count": 4
+        "repository_count": 7
       }
     },
     "development": {

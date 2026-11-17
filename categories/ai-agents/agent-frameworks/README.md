@@ -18,6 +18,7 @@
 | **superpowers** | [magentosh/superpowers](https://github.com/magentosh/superpowers) | Extended agent superpowers collection for autonomous content pipelines, automation, and tooling. (`sha: becc256`) |
 | **agency-agents** | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Production agent personas tailored for marketing, customer success, copywriting, and project management. (`sha: 8ae6164`) |
 | **superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Agent superpowers suite: parallel dispatch, systematic debugging, brainstorming, and verification gates. (`sha: 22f0b46`) |
+| **antigravity-skills** | [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) | Comprehensive vault of agent skills ported and optimized for Google Antigravity covering full-stack architecture, testing, and operations. (`sha: 2ee2cf7`) |
 | **skills** | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Comprehensive agent skills library for scenario testing, synthetic data generation, and QA simulations. (`sha: 94cab3f`) |
 | **agentic-awesome-skills** | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Massive repository indexing 9,000+ agent skills across every developer and creative discipline. (`sha: 8f1eb06`) |
 | **superpowers** | [skills-shell/superpowers](https://github.com/skills-shell/superpowers) | Agent shell superpowers enabling secure command execution, subagent dispatch, and tool chaining. (`sha: becc256`) |

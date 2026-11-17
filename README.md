@@ -2,9 +2,9 @@
 
 [![skills.sh compatible](https://img.shields.io/badge/skills.sh-compatible-00D084?style=flat-square&logo=terminal)](https://skills.sh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Active Skills](https://img.shields.io/badge/skills-135%20verified-orange.svg?style=flat-square)](skills_index.json)
+[![Active Skills](https://img.shields.io/badge/skills-144%20verified-orange.svg?style=flat-square)](skills_index.json)
 
-> Curated index of 135 high-craft developer, design, AI agent, video, marketing, and security skills for autonomous coding agents with commit-pinned ephemeral routing.
+> Curated index of 144 high-craft developer, design, AI agent, video, marketing, and security skills for autonomous coding agents with commit-pinned ephemeral routing.
 
 ## ⚡ One-Step Activation (Copy & Paste into Your Coding Agent)
 
@@ -31,11 +31,11 @@ This repository serves as the single source of truth for all verified agent skil
 
 | Domain | Sub-Category | Purpose & Focus Area | Repositories | Readme Link |
 | :--- | :--- | :--- | :---: | :--- |
-| **AI & Multi-Agent Systems** | `agent-frameworks` | Anthropic agent tools, multi-agent role orchestration, Superpowers parallel dispatch, and Google ADK tooling. | **16** | [View Manifest](categories/ai-agents/agent-frameworks/README.md) |
+| **AI & Multi-Agent Systems** | `agent-frameworks` | Anthropic agent tools, multi-agent role orchestration, Superpowers parallel dispatch, and Google ADK tooling. | **17** | [View Manifest](categories/ai-agents/agent-frameworks/README.md) |
 | **AI & Multi-Agent Systems** | `agent-memory-eval` | Elephant-Goldfish long-context retention, multimodal RAG pipelines, agent safety gates, and evaluation arenas. | **8** | [View Manifest](categories/ai-agents/agent-memory-eval/README.md) |
 | **AI & Multi-Agent Systems** | `prompt-engineering` | Meta-prompt optimization, Google NotebookLM synthesis, anti-AI content styling, and LoRA fine-tuning. | **6** | [View Manifest](categories/ai-agents/prompt-engineering/README.md) |
 | **AI & Multi-Agent Systems** | `vision-multimodal` | Screen recording inspection, visual question answering with evidence, bounding-box detection, and OCR. | **2** | [View Manifest](categories/ai-agents/vision-multimodal/README.md) |
-| **Design & UI/UX** | `3d-animation` | Three.js 3D environments, WebGL shaders, GSAP timelines, Framer Motion springs, and kinetic micro-interactions. | **21** | [View Manifest](categories/design/3d-animation/README.md) |
+| **Design & UI/UX** | `3d-animation` | Three.js 3D environments, WebGL shaders, GSAP timelines, Framer Motion springs, and kinetic micro-interactions. | **22** | [View Manifest](categories/design/3d-animation/README.md) |
 | **Design & UI/UX** | `app-ui-ux` | Mobile design systems, layout architecture, typography harmony, and heuristics that eliminate AI slop. | **13** | [View Manifest](categories/design/app-ui-ux/README.md) |
 | **Design & UI/UX** | `apple-ui` | Apple Human Interface Guidelines, iOS, iPadOS, macOS, visionOS, and SwiftUI craft for precision interfaces. | **2** | [View Manifest](categories/design/apple-ui/README.md) |
 | **Design & UI/UX** | `web-design` | Accessible design systems, Radix UI, Tailwind CSS, component kits, and publication-quality web interfaces. | **14** | [View Manifest](categories/design/web-design/README.md) |
@@ -45,9 +45,9 @@ This repository serves as the single source of truth for all verified agent skil
 | **Development & Engineering** | `tools-testing` | Full-lifecycle engineering review, automated browser QA, YC office hours forcing questions, and in-browser dev environments. | **4** | [View Manifest](categories/development/tools-testing/README.md) |
 | **Marketing & Growth** | `distribution-outreach` | Cold email copywriting, LinkedIn organic reach, Reddit market intelligence, startup launch hubs, and creator economics. | **8** | [View Manifest](categories/marketing-growth/distribution-outreach/README.md) |
 | **Marketing & Growth** | `seo-analytics` | AI search visibility audits, keyword clustering, Ahrefs telemetry, technical SEO, and programmatic search architecture. | **3** | [View Manifest](categories/marketing-growth/seo-analytics/README.md) |
-| **Media & Video** | `code-to-video` | Create real MP4 videos and kinetic motion sequences programmatically using React, HTML/CSS, and Hyperframes. | **4** | [View Manifest](categories/media-video/code-to-video/README.md) |
-| **Media & Video** | `motion-graphics` | LottieFiles vector graphics, Apple-style product launch films, animated charts, and kinetic choreography. | **5** | [View Manifest](categories/media-video/motion-graphics/README.md) |
-| **Media & Video** | `video-editing` | Non-linear video editing, AI avatar generation, talking head recuts, face swaps, and generative diffusion workflows. | **5** | [View Manifest](categories/media-video/video-editing/README.md) |
+| **Media & Video** | `code-to-video` | Create real MP4 videos and kinetic motion sequences programmatically using React, HTML/CSS, and Hyperframes. | **7** | [View Manifest](categories/media-video/code-to-video/README.md) |
+| **Media & Video** | `motion-graphics` | LottieFiles vector graphics, Apple-style product launch films, animated charts, and kinetic choreography. | **8** | [View Manifest](categories/media-video/motion-graphics/README.md) |
+| **Media & Video** | `video-editing` | Non-linear video editing, AI avatar generation, talking head recuts, face swaps, and generative diffusion workflows. | **6** | [View Manifest](categories/media-video/video-editing/README.md) |
 | **Security & Reverse Engineering** | `reverse-engineering` | Reverse Engineering Anything (REA) multi-platform decompilation, API extraction, and Firecrawl web scraping. | **5** | [View Manifest](categories/security-reverse/reverse-engineering/README.md) |
 | **Security & Reverse Engineering** | `security-audit` | Cloudflare OWASP top 10 security audits, TruffleHog secret scanning, and NVIDIA SkillSpector safety checks. | **4** | [View Manifest](categories/security-reverse/security-audit/README.md) |
 | **Trading & Cloud Ops** | `cloud-infrastructure` | Azure Kubernetes Service cost optimization, GPU inference node pools, and automated deployment pipelines. | **1** | [View Manifest](categories/trading-cloud/cloud-infrastructure/README.md) |
@@ -59,7 +59,7 @@ This repository serves as the single source of truth for all verified agent skil
 
 ## Master Skill & Repository Directory
 
-Complete inventory of all **135 unique repositories** with verified commit SHAs:
+Complete inventory of all **144 unique repositories** with verified commit SHAs:
 
 | Skill Name | Repository Link | Category | Description & Verified Commit |
 | :--- | :--- | :--- | :--- |
@@ -67,6 +67,7 @@ Complete inventory of all **135 unique repositories** with verified commit SHAs:
 | **MiroFish** | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | `ai-agents/agent-frameworks` | Autonomous multi-agent research and reasoning framework with recursive self-correction. (`sha: 7657031`) |
 | **claude-seo** | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | `marketing-growth/seo-analytics` | Comprehensive SEO skill suite: Ahrefs, Bing Webmaster, Google Search Console, Matomo, PostHog, and programmatic SEO. (`sha: 468ed5b`) |
 | **jev-seo** | [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | `marketing-growth/seo-analytics` | Lightweight autonomous SEO auditor for technical SEO, sitemaps, robots.txt, and metadata optimization. (`sha: 55a184a`) |
+| **vox-ai-motion-graphics-generator** | [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) | `media-video/motion-graphics` | Vox-style paper-collage explainer and motion graphics generator automating script, keyframes, voice-over, and captions. (`sha: c685644`) |
 | **agent-vision-toolkit** | [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) | `ai-agents/vision-multimodal` | Computer vision and screen analysis toolkit for visual UI debugging, bounding boxes, and OCR. (`sha: 328c0ae`) |
 | **appllama-skills** | [Appllama/appllama-skills](https://github.com/Appllama/appllama-skills) | `design/app-ui-ux` | Full-stack mobile app design and code generation skills tailored for Appllama agents and cross-platform apps. (`sha: dd5caae`) |
 | **threejs-skills** | [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) | `design/3d-animation` | Comprehensive Three.js 3D skills: shaders, materials, lighting, cameras, post-processing, and scene optimization. (`sha: 0e18186`) |
@@ -87,10 +88,12 @@ Complete inventory of all **135 unique repositories** with verified commit SHAs:
 | **ui-prompt-library** | [P-r-e-m-i-u-m/ui-prompt-library](https://github.com/P-r-e-m-i-u-m/ui-prompt-library) | `design/app-ui-ux` | High-craft UI prompt engineering library for generative UI systems, visual ideation, and responsive layouts. (`sha: 482a321`) |
 | **Agent-Reach** | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | `marketing-growth/distribution-outreach` | Read-only platform intelligence for YouTube, Bilibili, X/Twitter, Reddit, GitHub, Boss, and Xiaohongshu. (`sha: c70ae6d`) |
 | **awesome-llm-apps** | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | `ai-agents/agent-frameworks` | Curated repository of 100+ production-grade LLM applications, RAG pipelines, and agent architectures. (`sha: 4f40918`) |
+| **anything2explainer** | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | `media-video/code-to-video` | Turn any topic or document into a narrated dark-canvas motion graphics explainer video with Remotion and edge-tts / Kokoro voiceover. (`sha: 4f73818`) |
 | **awesome-design-md** | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | `design/app-ui-ux` | Curated directory of production DESIGN.md specifications, design tokens, and style guides for AI coding agents. (`sha: fcc7028`) |
 | **watermelon-platform** | [WatermelonCorp/watermelon-platform](https://github.com/WatermelonCorp/watermelon-platform) | `design/web-design` | Watermelon UI platform component kit and high-performance design system primitives. (`sha: c4c2677`) |
 | **agent-skills** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | `development/tools-testing` | Addy Osmani's engineering skills: API design, DevTools testing, CI/CD, performance budgets, and architecture. (`sha: 39b723c`) |
 | **ECC** | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `ai-agents/agent-frameworks` | Extensible Claude Code skills catalog covering full-stack dev, DevOps, infrastructure, and automation. (`sha: d2ef268`) |
+| **huashu-motion** | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | `media-video/motion-graphics` | Commercial-grade product launch film generator for coding agents with frame-level visual direction and soundtrack composition. (`sha: f09dd7a`) |
 | **claude-skills** | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | `ai-agents/agent-frameworks` | Extensive archive of Claude Code agent skills for software engineering, testing, and system design. (`sha: 4680893`) |
 | **animate.css** | [animate-css/animate.css](https://github.com/animate-css/animate.css) | `design/3d-animation` | Cross-browser library of ready-to-use CSS animations for quick micro-interactions and transitions. (`sha: 3f8ab23`) |
 | **skills** | [anthropics/skills](https://github.com/anthropics/skills) | `ai-agents/agent-frameworks` | Anthropic's official agent skills: algorithmic art, brand guidelines, academy guides, and doc synthesis. (`sha: 1780c5e`) |
@@ -128,17 +131,22 @@ Complete inventory of all **135 unique repositories** with verified commit SHAs:
 | **elephant-goldfish-model** | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | `ai-agents/agent-memory-eval` | Google research repository on multi-agent memory consolidation, long-context retention, and drift pruning. (`sha: 72d06f5`) |
 | **GSAP** | [greensock/GSAP](https://github.com/greensock/GSAP) | `design/3d-animation` | GSAP (GreenSock Animation Platform) core engine for high-performance modern web animation across all browsers. (`sha: 5e6c35f`) |
 | **gsap-skills** | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | `design/3d-animation` | Official GreenSock GSAP animation skills: ScrollTrigger, Timeline, Flip, physics, and high-performance DOM tweening. (`sha: aed9cfd`) |
+| **claude-remotion-skill** | [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) | `media-video/code-to-video` | Full-suite Remotion video editing and motion graphics skill teaching agents programmatic React composition, captions, and sound design. (`sha: 1dcbe5e`) |
 | **heroui** | [heroui-inc/heroui](https://github.com/heroui-inc/heroui) | `design/web-design` | HeroUI (formerly NextUI) accessible, themeable React and React Native component library for elegant interfaces. (`sha: 301d659`) |
 | **awesome-claude-code** | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | `ai-agents/agent-frameworks` | Community curated index of Claude Code workflows, plugins, slash commands, and productivity tools. (`sha: f086b05`) |
 | **unslop** | [heydamir/unslop](https://github.com/heydamir/unslop) | `design/app-ui-ux` | Writing and UI unslop engine that prunes boilerplate, marketing buzzwords, and AI cliches from design and copy. (`sha: 620163e`) |
 | **hyperframes** | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | `media-video/code-to-video` | Code-to-video production framework generating dynamic motion graphics, changelog videos, and reels from code. (`sha: 5d5e2c0`) |
+| **hand-drawn-explainer-video-nikola** | [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | `media-video/code-to-video` | Chinese hand-drawn whiteboard and knowledge explainer video generator with stroke-by-stroke animation, dual semantic islands, and MP4 export. (`sha: 3ee5d1c`) |
 | **skills** | [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) | `media-video/video-editing` | Higgsfield AI video and visual content generation suite for brand kits, faceless explainer clips, and marketing reels. (`sha: 2700040`) |
 | **Trig-JS** | [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) | `design/3d-animation` | Trigonometric and mathematical animation helpers for procedural motion, wave kinematics, and game UI. (`sha: 8cdc54a`) |
 | **genjutsu** | [iamovi/genjutsu](https://github.com/iamovi/genjutsu) | `design/3d-animation` | Creative web animation spells and canvas effects for dynamic hero sections and immersive visuals. (`sha: 3bf81b0`) |
+| **motion-skills** | [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) | `media-video/motion-graphics` | 56 open-source motion graphics and animation skills for coding agents covering kinetic typography, Manim, WebGL, and data-viz. (`sha: 9b9ce04`) |
+| **web-animation-skills** | [iart-ai/web-animation-skills](https://github.com/iart-ai/web-animation-skills) | `design/3d-animation` | Web animation skills for coding agents covering GSAP, SVG, Lottie, micro-interactions, page transitions, and 60fps performance. (`sha: ed3a045`) |
 | **motion-primitives** | [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) | `design/3d-animation` | Copy-paste smooth interactive motion primitives built with Tailwind CSS and Framer Motion. (`sha: 120f64f`) |
 | **inkField** | [ileivoivm/inkField](https://github.com/ileivoivm/inkField) | `development/backend-api` | Reactive text input and form state management library with rich canvas feedback. (`sha: 39febcc`) |
 | **jev-agent-skill** | [jev-ai/jev-agent-skill](https://github.com/jev-ai/jev-agent-skill) | `ai-agents/prompt-engineering` | Jev autonomous research agent skill for deep document analysis and evidence-based synthesis. (`sha: 8702f43`) |
 | **anime** | [juliangarnier/anime](https://github.com/juliangarnier/anime) | `design/3d-animation` | Lightweight JavaScript animation engine with simple API for CSS properties, SVG, DOM attributes, and JS objects. (`sha: 01b81be`) |
+| **ffmpeg-skill** | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | `media-video/video-editing` | Local video editing toolkit for coding agents with 42 FFmpeg tools, Whisper transcription, loudness normalization, and MCP server. (`sha: f1c97cb`) |
 | **reverse-api-engineer** | [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) | `security-reverse/reverse-engineering` | Reverse engineering toolkit for mobile apps and private web endpoints to extract schemas and auth flows. (`sha: e3aae74`) |
 | **ghost-editor** | [kurbaitaev/ghost-editor](https://github.com/kurbaitaev/ghost-editor) | `media-video/video-editing` | Distraction-free markdown content editor with rich formatting, instant preview, and clean export. (`sha: ce17272`) |
 | **lemo-opuscar** | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | `ai-agents/prompt-engineering` | Automated workflow and agent tool discovery plugin for Claude Code and LLM workbenches. (`sha: 3a7132b`) |
@@ -173,6 +181,7 @@ Complete inventory of all **135 unique repositories** with verified commit SHAs:
 | **react** | [react/react](https://github.com/react/react) | `development/backend-api` | React core library: the ubiquitous UI component architecture powering the modern web ecosystem. (`sha: df6aa4e`) |
 | **remotion** | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | `media-video/code-to-video` | Create real MP4 videos programmatically using React components, CSS, canvas, and audio tracks. (`sha: 26afaf0`) |
 | **expo-dynamic-notifications** | [rit3zh/expo-dynamic-notifications](https://github.com/rit3zh/expo-dynamic-notifications) | `development/mobile-frameworks` | Dynamic push notification handler and background task orchestrator for Expo and React Native apps. (`sha: 5de059a`) |
+| **antigravity-skills** | [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) | `ai-agents/agent-frameworks` | Comprehensive vault of agent skills ported and optimized for Google Antigravity covering full-stack architecture, testing, and operations. (`sha: 2ee2cf7`) |
 | **shadergradient** | [ruucm/shadergradient](https://github.com/ruucm/shadergradient) | `design/3d-animation` | Interactive 3D gradient generator with WebGL shaders for fluid, living canvas backgrounds. (`sha: 68bdd74`) |
 | **ip-as-logo-skill** | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | `design/app-ui-ux` | Autonomous IP character and brand logo design skill specializing in memorable mascot identity craft. (`sha: 6e808f3`) |
 | **skills** | [scenario-labs/skills](https://github.com/scenario-labs/skills) | `ai-agents/agent-frameworks` | Comprehensive agent skills library for scenario testing, synthetic data generation, and QA simulations. (`sha: 94cab3f`) |
