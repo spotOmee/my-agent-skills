@@ -19,11 +19,13 @@ mkdir -p ~/.antigravity/skills/my-agent-skill && curl -fsSL https://raw.githubus
 
 ## System Architecture
 
-This repository serves as the single source of truth for all verified agent skills. It pairs with the local `my-agent-skill` router to provide **zero-local-install ephemeral execution**:
+This repository serves as the single source of truth for all verified agent skills. It pairs with the local `my-agent-skill` router to provide **zero-local-install ephemeral execution with interactive discovery and approval**:
 
 1. **One-Read Discovery (`skills_index.json`)**: Agents read the lightweight router map first to identify relevant domains and category README paths without crawling git trees.
-2. **Targeted Category Manifest**: Agents fetch only the specific category `README.md` containing verified 7-character commit SHAs.
-3. **Isolated `/tmp` Execution**: Skills are fetched into an ephemeral sandbox in `/tmp`, executed, and purged immediately with zero residual files on device.
+2. **Skill Discovery & Recommendation**: Analyzes context, categories, and keywords to present **Matched Skills** and highlight **Recommended Skills**.
+3. **Interactive Approval Gate (Default Mode)**: Prompts the user to approve selected skills (with an "Other" option for custom input or auto-proceed permission) and waits for confirmation before installation. In **Full Permissions / Auto-Mode**, automatically selects skills, outputs a **Mandatory Notification** of scheduled skills, and proceeds immediately.
+4. **Targeted Category Manifest**: Agents fetch only the specific category `README.md` containing verified 7-character commit SHAs.
+5. **Isolated `/tmp` Execution**: Skills are fetched into an ephemeral sandbox in `/tmp`, executed, and purged immediately with zero residual files on device.
 
 ---
 
@@ -213,4 +215,12 @@ Complete inventory of all **144 unique repositories** with verified commit SHAs:
 ## Ephemeral Agent Integration
 
 To use this skill repository with Claude Code, Antigravity CLI, or any autonomous agent, install the local router skill `my-agent-skill/SKILL.md`.
-The router fetches `skills_index.json` from `https://raw.githubusercontent.com/spotOmee/my-agent-skills/main/skills_index.json` and executes matched skills ephemerally inside `/tmp`.
+
+The router follows an intelligent discovery and verification lifecycle:
+1. **Semantic Routing & Catalog Lookup**: Evaluates conversational context, user intent, keywords, and domain categories against `skills_index.json` and category manifests.
+2. **Skill Discovery & Recommendation**: Lists all **Matched Skills** and highlights **Recommended Skills** tailored to the immediate task.
+3. **Interactive Approval Gate**:
+   - **Default Mode**: Presents matched/recommended skills and prompts the user to select skills, enter custom input ("Other"), or grant auto-proceed permission. Awaits explicit user confirmation before installing or executing.
+   - **Full Permissions / Auto-Mode Override**: Automatically selects required skills, outputs a **Mandatory Notification** of scheduled skills, and proceeds immediately to isolated execution.
+4. **Zero-Local-Install `/tmp` Sandbox**: Fetches only confirmed skills at their verified 7-character commit SHAs into `/tmp/ag-ephemeral-skill-*/`.
+5. **Mandatory Ephemeral Cleanup**: Automatically wipes `/tmp/ag-ephemeral-skill-*` immediately post-task to ensure zero residual storage on the host device.
